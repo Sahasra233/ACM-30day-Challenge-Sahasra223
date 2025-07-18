@@ -1,9 +1,14 @@
-# Day 01 – Burnout Breakdown 🧠🔥
+# ACM 30-Day AI & Data Science Challenge – Sahasra
 
-## ✅ Tasks Completed:
-- Loaded and inspected the burnout dataset
-- Cleaned column names for consistency
-- Handled missing values (`sleephours`)
-- Removed outliers where workhoursperweek > 18
-- Created scatter plot: stress vs sleep
-- Saved cleaned dataset and visualization
+## 🔁 Cycle Progress
+
+### 📘 Cycle 1 – Clean Data Champions
+- [x] Day 01 – Burnout Breakdown
+- [x] Day 02 – Feature Forge + Regression
+- [x] Day 03 – Classifier Arena
+- [ ] Mini Challenge – Pending
+- [ ] Main Challenge – Pending
+
+### 📘 Cycle 2 – To Be Revealed
+- [ ] Coming soon...
+
