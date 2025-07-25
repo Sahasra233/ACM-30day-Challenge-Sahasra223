@@ -1,18 +1,30 @@
-ACM 30-Day AI & Data Science Challenge – Sahasra
+# 📊 Phase 2: Support Vector Machines (SVM) – Credit Card Fraud Detection
 
-🔁 Cycle Progress
+**ACM 30-Day AI & Data Science Challenge .
 
-📘 Cycle 1 – Clean Data Champions
-	•	Day 01 – Burnout Breakdown
-	•	Day 02 – Feature Forge + Regression
-	•	Day 03 – Classifier Arena
-	•	Day 04 – Tree-Based Models + k-NN + Feature Selection
-	•	Day 05 – Mini Challenge: 3-Feature Showdown ✅
-	•	🏁 Main Challenge – Dirty Dataset Detective ✅
 
-⸻
+## 📁 Task Overview
 
-📘 Cycle 2 – Boost & Bag: Ensemble Intelligence
-	•	Day 06 – Bagging vs Boosting: Breast Cancer Detection ✅
-	•	Day 07 – Coming soon…
+- **Objective**: Train and evaluate SVM classifiers using different kernels (Linear, RBF, Polynomial) on a credit card fraud detection dataset.
+- **Dataset**: [Credit Card Fraud Detection – Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- **Deliverable**: Jupyter Notebook with SVM models, PCA visualization, accuracy scores, and kernel effect explanation.
 
+
+✅ Tasks Completed :
+Loaded and preprocessed the Kaggle credit card dataset.
+
+Balanced the dataset by sampling non-fraud and fraud records.
+
+Scaled features using StandardScaler.
+
+Trained Support Vector Machines with:
+
+🔹 Linear kernel
+
+🔹 RBF kernel
+
+🔹 Polynomial kernel
+
+Evaluated and compared accuracy of each model.
+
+Visualized results using 2D PCA projection for all kernels.
