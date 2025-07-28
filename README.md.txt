@@ -16,7 +16,4 @@
 ✅ Day 06 – Bagging vs Boosting: Breast Cancer Detection  
 ✅ Day 07 – SVM Kernels on Credit Card Dataset  
 ✅ Day 08 – Unsupervised Learning: Iris Clustering  
-  • k-Means (with Elbow Method)  
-  • Hierarchical Clustering (with Dendrogram)  
-  • Bonus: PCA & t-SNE for visualization  
-  • Notebook: `Phase3_Unsupervised_Learning_Iris.ipynb`
+✅ Day 09 - SVD_PCA_Clustering_20News 
