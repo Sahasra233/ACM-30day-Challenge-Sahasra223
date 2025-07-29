@@ -16,4 +16,13 @@
 ✅ Day 06 – Bagging vs Boosting: Breast Cancer Detection  
 ✅ Day 07 – SVM Kernels on Credit Card Dataset  
 ✅ Day 08 – Unsupervised Learning: Iris Clustering  
-✅ Day 09 - SVD_PCA_Clustering_20News 
+✅ Day 09 – Dimensionality Reduction & Clustering on 20 Newsgroups (TF-IDF + SVD + PCA)  
+🔜 Day 10 – Model Validation & Selection (Cross-Validation, Bias-Variance, Learning Curves)
+
+---
+
+📁 **Current Phase:** Phase 5 – Model Validation & Selection  
+🧪 **Mini Task:** Model selection using KFold Cross-Validation and Learning Curves (Random Forest + SVM)  
+📈 **Status:** ✅ Completed
+
+
